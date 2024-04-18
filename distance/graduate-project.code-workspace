@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../3D vision/graduate-project"
+		},
+		{
+			"path": "../objectmeasurement"
+		},
+		{
+			"path": "../camera"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
